@@ -1,6 +1,6 @@
 ### Hi there, I'm T.Kalv 👋
 
-### I'm a self-taught teenager Python Developer, Software Engineer, Computer Scientist, and Web Developer!
+### I'm a self-taught Python Developer, Software Engineer, Computer Scientist, and Web Developer!
 - 😫 I'm currently learning how to program in C#.
 - 🚀 👨‍🚀 I'm currently learning how to launch a model rocket using TVC and an Arduino as the flight computer. 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
