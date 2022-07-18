@@ -7,6 +7,9 @@
 - 👨‍🎓 When I'm older, I would like to either become an Aerospace Engineer, Rocket Scientist or a Programmer.
 <br />
 
+### CS Website https://mastercsonline.w3spaces.com/
+
+
 ### Languages And Tools That I Use:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
