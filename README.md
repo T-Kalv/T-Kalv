@@ -5,7 +5,7 @@
 - 🚀 👨‍🚀 I'm currently learning how to launch a model rocket using TVC and an Arduino as the flight computer. 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
 - 👨‍🎓 When I'm older, I would like to either become an Aerospace Engineer, Rocket Scientist or a Programmer.
-<br />
+
 ### CS Website https://mastercsonline.w3spaces.com/
 
 
