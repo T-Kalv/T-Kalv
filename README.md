@@ -1,42 +1,46 @@
-### Hi there, I'm T.Kalv 👋
+# 🚀 T.Kalv
+**`CS Student (+Physics & Math)`**
 
-### I'm a self-taught Python Developer, Software Engineer, Computer Scientist, and Web Developer!
+[![github streak][1]][1]
+
+I'm a self-taught Python Developer, Software Engineer, Computer Scientist, and Web Developer! All coding projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I also made a [CS Website] a while back in class so go check that out if you want...
 - 😫 I'm currently learning how to program in C#.
-- 🚀 👨‍🚀 I'm currently learning how to launch a model rocket using TVC and an Arduino as the flight computer. 
+- 💻 I'm currently working on a virtual assistant called [TALIA] (Totally Artificial Language Intelligence). 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
-- 👨‍🎓 When I'm older, I would like to either become an Aerospace Engineer, Rocket Scientist or a Programmer.
+- 👨‍🎓 When I'm older, I would like to either become an Physicist, Rocket Scientist or a Software Engineer.
 
-### CS Website: https://mastercsonline.w3spaces.com/
+--- 
 
+### 🧰 Languages and Tools
 
-### Languages And Tools That I Use:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="Repl" width="26px" src="https://simpleicons.org/icons/repl-dot-it.svg" />][Repl]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/.net/.net.png" />][.NET]
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="LaTex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="xd" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+<img align="left" alt="blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
 
----
+#
 
+### 📈 Stats
 
 <img align="left" alt="Kalvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Kalv&show_icons=true&hide_border=true" />
 
+<details>
 
+ <summary><h3>🌱 My Journey</h3></summary>
+ 
+ *I dunno what to put here other than the fact I'm still on my journey :/
 
-[Python]: https://www.python.org/
-[GitHub]: https://github.com/windous22
-[Repl]: https://repl.it
-[Visual Studio Code]: https://code.visualstudio.com/
-[MySQL]: https://www.mysql.com/
-[MongoDB]: https://www.mongodb.com/
-[HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[CSS3]: https://developer.mozilla.org/en-US/docs/Archive/CSS3
-[C]: https://www.w3schools.in/c-tutorial/
-[.NET]: https://dotnet.microsoft.com/en-us/
+[1]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DT-Kalv%26type%3Djson
+[CS Website]: https://mastercsonline.w3spaces.com/
+[TALIA]: https://github.com/T-Kalv/Tasp-Talia-
