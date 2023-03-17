@@ -4,10 +4,10 @@
 [![github streak][1]][1]
 
 ### I'm a self-taught Python Developer, Software Engineer, Computer Scientist, and Web Developer! All coding projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I also made a [CS Website] a while back in class so go check that out if you want...
-- 😫 I'm currently learning how to program in C#.
+- 😫 I'm currently working on an AI Draughts Game Project.
 - 💻 I'm currently working on a virtual assistant called [TALIA] (Totally Artificial Language Intelligence Assistant). 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
-- 👨‍🎓 When I'm older, I would like to either become an Physicist, Rocket Scientist or a Software Engineer.
+- 👨‍🎓 When I'm older, I would like to either become an Computer Scientist, Researcher, Rocket Scientist or a Software Engineer.
 
 --- 
 
