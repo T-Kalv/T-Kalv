@@ -3,6 +3,7 @@
 
 [![github streak][1]][1]
 
+
 ### I'm a self-taught Programmer and Computer Scientist! All coding projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I also made a [CS Website] a while back in class so go check that out if you want...
 - 😫 I'm currently learning how to set-up and use Arch Linux.
 - 💻 I'm currently working on a virtual assistant called [TALIA] (Totally Artificial Language Intelligence Assistant). 
@@ -32,8 +33,12 @@
 
 #
 
-### 📈 Stats
+<img src="https://raw.githubusercontent.com/T-Kalv/T-Kalv/output/snake.svg" alt="Snake animation" />
 
+###
+
+### 📈 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-kalv&show_icons=true&locale=en&layout=compact" alt="t-kalv" /></p>
 <img align="left" alt="Kalvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Kalv&show_icons=true&hide_border=true" />
 
 <details>
