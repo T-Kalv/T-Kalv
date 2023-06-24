@@ -4,7 +4,7 @@
 [![github streak][1]][1]
 
 
-### I'm a self-taught Programmer and Computer Scientist! All coding projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I also made a [CS Website] a while back in class so go check that out if you want...
+### I'm a self-taught Programmer and CS Student! All coding projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I also made a [CS Website] a while back in class so go check that out if you want...
 - 😫 I'm currently learning how to set-up and use Arch Linux.
 - 💻 I'm currently working on a virtual assistant called [TALIA] (Totally Artificial Language Intelligence Assistant). 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
