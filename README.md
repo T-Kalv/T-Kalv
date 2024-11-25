@@ -5,10 +5,10 @@
 
 
 ### I'm a self-taught Programmer and current CS Student! All programming projects are built from the ground up, from planning to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
-- 😫 I'm currently learning Functional Programming with the Haskell Programming Language
-- 💻 I'm currently working on my own programming language...
-- 🧠 Fun Fact: I like to learn anything CS, Science, Math and Technology related.
-- 👨‍🎓 When I'm older, I would like to either become an Computer Scientist, Researcher, Programmer or a Software Engineer.
+- 💻 I'm currently learning Functional Programming with the Haskell Programming Language
+- 🚀 I'm currently part of LASER'S Rocket Team working mainly on the electronics/programming side of the Rocket
+- 🧠 Fun Fact: I like to learn anything CS, Science, Math and Technology related
+- 👨‍🎓 When I'm older, I would like to either become an Computer Scientist, Researcher, Programmer or a Software Engineer
 
 --- 
 
