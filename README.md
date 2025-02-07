@@ -8,7 +8,7 @@
 - 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
 - 💻 I'm working on a To-Do List App in Haskell
 - 🧠 Fun Fact: I like to learn anything CS, Science, Math and Technology related
-- 👨‍🎓 When I'm older, I would like to either become an Researcher, Software Engineer, Programmer or go into Computer Engineering
+- 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer or go into Computer Engineering
 
 --- 
 
