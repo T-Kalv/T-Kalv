@@ -6,7 +6,7 @@
 
 ### I'm an aspiring SWE and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
 - 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
-- 💻 I'm working on a To-Do List App in Haskell
+- 💻 I'm working on a Black-Scholes Model Project
 - 🧠 Fun Fact: I like to learn anything CS, Science, Math and Technology related
 - 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer or go into Computer Engineering
 
