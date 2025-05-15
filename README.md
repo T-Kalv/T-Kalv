@@ -1,14 +1,14 @@
 # 🚀 T.Kalv
-**`CS Student (+Math & Physics)`**
+**`CS Student (+Math & Electronics)`**
 
 [![github streak][1]][1]
 
 
-### I'm an aspiring SWE and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
-- 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
+### I'm an aspiring SWE/Researcher and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
+- 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) Flight Computer on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
 - 💻 I'm working on a Black-Scholes Model Project
-- 🧠 Fun Fact: I like to learn anything CS, Science, Math and Technology related
-- 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer or go into Computer Engineering
+- 🧠 Fun Fact: I like to learn anything CS, Electronics, Math, Space and Technology related
+- 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer...
 
 --- 
 
@@ -18,6 +18,8 @@
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Intel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Intel_logo_%282020%2C_light_blue%29.svg/640px-Intel_logo_%282020%2C_light_blue%29.svg.png" />
+<img align="left" alt="x86 Assembly" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/66/X86.png" />
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
