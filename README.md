@@ -6,7 +6,7 @@
 
 ### I'm an aspiring SWE/Researcher and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
 - 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) Flight Computer on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
-- 💻 I'm working on a Black-Scholes Model Project
+- 💻 I'm working on a [Black-Scholes Model Project]
 - 🧠 Fun Fact: I like to learn anything CS, Electronics, Math, Space and Technology related
 - 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer...
 
@@ -49,3 +49,4 @@
 [1]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DT-Kalv%26type%3Djson
 [CS Website]: https://mastercsonline.w3spaces.com/
 [TALIA]: https://github.com/T-Kalv/Tasp-Talia-
+[Black-Scholes Model Project]: https://black-scholes-option-model.streamlit.app/
