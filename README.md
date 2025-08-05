@@ -1,14 +1,14 @@
 # 🚀 T.Kalv
-**`CS Student (+Math & Electronics)`**
+**`CS Student (AI & Electronics)`**
 
 [![github streak][1]][1]
 
 
-### I'm an aspiring SWE/Researcher and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made a [CS Website] and a virtual AI assistant called [TALIA] a while back so go check those out if you want...
+### I'm an aspiring SWE/Researcher and current CS Student! All programming projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made an [Interactive Black-Scholes Option Pricing Model], a virtual AI assistant called [TALIA] and a [CS Website] while back so go check those out if you want...
 - 🚀 I'm currently working on LIFTS (LASER'S Integrated Flight Tracking System) Flight Computer on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unity for LASER'S Spacecraft And AeroSpace Research) Unity Rise Rocket Team
-- 💻 I'm working on a [Black-Scholes Model Project]
-- 🧠 Fun Fact: I like to learn anything CS, Electronics, Math, Space and Technology related
-- 👨‍🎓 When I graduate, I would like to either become an Researcher, Software Engineer, Programmer...
+- 💻 I'm working on a [Simple MNSIT Digit Classifier Neural Network]
+- 🧠 Fun Fact: I like to learn anything AI/ML/DL, Robotics, Electronics, Math, Science and Technology related
+- 👨‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Developer, Programmer...
 
 --- 
 
@@ -46,9 +46,10 @@
 
  <summary><h3>🌱 My Journey</h3></summary>
  
- *I dunno what to put here other than the fact I'm still on my Computer Science journey :/
+ *I dunno what to put here other than the fact I'm still on my CS + AI journey :/
 
 [1]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DT-Kalv%26type%3Djson
+[Interactive Black-Scholes Option Pricing Model]: https://github.com/T-Kalv/Black-Scholes-Model
 [CS Website]: https://mastercsonline.w3spaces.com/
 [TALIA]: https://github.com/T-Kalv/Tasp-Talia-
-[Black-Scholes Model Project]: https://black-scholes-option-model.streamlit.app/
+[Simple MNSIT Digit Classifier Neural Network]: https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main
