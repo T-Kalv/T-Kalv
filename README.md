@@ -2,10 +2,10 @@
 **`CS Student (AI & Electronics)`** 
 
 ### I'm an aspiring Researcher/SWE and current CS + AI Student! All projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made an [Interactive Black-Scholes Option Pricing Model], a virtual AI assistant called [TALIA] and a [CS Website] while back so go check those out if you want...
-- 🚀 I'm currently working on the Rideshare Research Experiment Project and Ground Station Electronics on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unit for LASER's Spacecraft And AeroSpace Research) Unity Rise Rocket Team 25/26
-- 💻 I'm working on a [Simple MNSIT Digit Classifier Neural Network] and writing up a [Research Paper] for that...
+- 🚀 I'm currently working on the Rideshare Research Experiment Project and Ground Station Electronics on the Electronics/Programming Subsystems Team as part of LASER'S PULSAR (Propulsion Unit for LASER's Spacecraft And AeroSpace Research) [Unity Rise Rocket Team] 25/26
+- 💻 I'm working on a Research Project that uses Computer Vision to detect the health of Agriculture Crops.
 - 🧠 Fun Fact: I like to learn anything AI/ML/DL, Robotics, Electronics, Quant, Math, Science and Technology related...
-- 👨‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Machine Learning/Software Engineer, Quantitative Developer, Data Scientist…
+- 👨‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher in Articifial Intelligence/Robotics, Machine Learning/Software Engineer, Quantitative Developer, Data Scientist…
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -66,3 +66,4 @@
 [Simple MNSIT Digit Classifier Neural Network]: https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main
 [Research Paper]: https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf
 [LIFTS]: https://github.com/mg643l/pulsar-avionics
+[Unity Rise Rocket Team]: https://github.com/UnityRiseUol
