@@ -40,11 +40,11 @@
   <a href="https://github.com/T-Kalv/StudyShorts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=dark" alt="StudyShorts" width="48%">
   </a>
-  <a href="https://github.com/T-Kalv/Tasp-Talia-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Tasp-Talia-&theme=dark" alt="TALIA" width="48%">
+  <a href="https://github.com/UnityRiseUol/pl26-rideshare-experiment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnityRiseUol&repo=pl26-rideshare-experiment&theme=dark" alt="PL-26 VEGA Rideshare Experiment" width="48%">
   </a>
-  <a href="https://github.com/mg643l/pulsar-avionics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mg643l&repo=pulsar-avionics&theme=dark" alt="PULSAR LIFTS" width="48%">
+  <a href="https://github.com/UnityRiseUol/pl26-groundstation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnityRiseUol&repo=pl26-groundstation&theme=dark" alt="PL-26 Groundstation" width="48%">
   </a>
 </p>
 
