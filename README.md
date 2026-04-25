@@ -4,15 +4,16 @@
 ### I'm an aspiring Researcher/SWE and current CS + AI Student! All projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made an [Interactive Black-Scholes Option Pricing Model], a virtual AI assistant called [TALIA] and a [CS Website] a while back so go check those out if you want...
 
 - 🚀 I'm currently working on the [VEGA] Rideshare Research Experiment Project and [PLOTS Ground Station] on the Electronics/Programming and Payload Subsystems Team as part of LASER'S PL-26 [Unity Rise Rocket Team] 25/26
-- 💻 I'm working on a Research Project that uses Computer Vision/Machine Learning on edge-computing to detect the health of Agriculture Crops in real-time
+- 💻 I'm working on a startup that helps students navigate the university accommodation landscape using crowdsourced insights and intelligent centralised data...
 - 🧠 Fun Fact: I like to learn anything AI/ML/DL, Robotics, Electronics, Quant, Math, Science and Technology related...
-- 👨‍🎓 When I graduate, I would like to pursue a pathway either as a Researcher in Artificial Intelligence/Robotics, Machine Learning/Software Engineer, Quantitative Developer, Data Scientist…
+- 👨‍🎓 When I graduate, I would like to pursue a pathway either as a Researcher in Artificial Intelligence/Robotics, Machine Learning/Robotics/Software Engineer, Quantitative Developer, Data Scientist…
 
 ### 🧰 Languages and Tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -23,7 +24,6 @@
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-plain-wordmark.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
