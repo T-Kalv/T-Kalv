@@ -1,29 +1,38 @@
-# 🚀 T.Kalv
-**`CS Student (AI & Electronics)`** 
+# 🚀 T. Kalv
+**`CS Student (AI & EEE) | Avionics Lead | AI & Robotics`** 
+### I'm an aspiring Researcher/Engineer and current CS + AI Student! All projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code.
 
-### I'm an aspiring Researcher/SWE and current CS + AI Student! All projects are built from the ground up, from planning/researching to designing to implementing the idea, ultimately solving problems with the use of code. I've also made an [Interactive Black-Scholes Option Pricing Model], a virtual AI assistant called [TALIA] and a [CS Website] a while back so go check those out if you want...
+- 🚀 **Currently Engineering:** Designing the active Airbrakes system (LABS), LIFTSv3 Avionics, Power Universal Board (LIPUB) and onboard camera systems as the Avionics Lead for LASER's [Unity Rise Rocket Team]. 
+- 💻 **Startup Build:** Founder and lead full-stack developer of RateMyAccomm, a centralised platform helping students navigate university housing using crowdsourced insights.
+- 📝 **Research & Writing:** Maintaining a technical blog on my [Website] where I publish research summaries, tutorials, proposals and insights on Artificial Intelligence, Robotics and Machine Learning.
+- 🧠 Fun Fact: I like to learn anything related to AI/ML/DL, Robotics, Electronics, Quant, Math, Science and Technology related...
+- 🎓 When I graduate, I would like to pursue a pathway either as a Researcher in Artificial Intelligence/Robotics, Machine Learning/Robotics/Software Engineer, Quantitative Developer, Data Scientist…
 
-- 🚀 I'm currently working on the [VEGA] Rideshare Research Experiment Project and [PLOTS Ground Station] on the Electronics/Programming and Payload Subsystems Team as part of LASER'S PL-26 [Unity Rise Rocket Team] 25/26
-- 💻 I'm working on a startup that helps students navigate the university accommodation landscape using crowdsourced insights and intelligent centralised data...
-- 🧠 Fun Fact: I like to learn anything AI/ML/DL, Robotics, Electronics, Quant, Math, Science and Technology related...
-- 👨‍🎓 When I graduate, I would like to pursue a pathway either as a Researcher in Artificial Intelligence/Robotics, Machine Learning/Robotics/Software Engineer, Quantitative Developer, Data Scientist…
-
-### 🧰 Languages and Tools
+### 🧰 Languages, Hardware & Tools
 <p>
+<!-- Core Languages -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="x86 Assembly" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/66/X86.png" />
-<img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<!-- Web & Data -->
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-plain-wordmark.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<!-- Hardware, PCB & MCU -->
+<!-- <img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/altiumdesigner/FFFFFF" /> -->
+<img align="left" alt="KiCad" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kicad/314CB6" />
+<img align="left" alt="ESP32" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/espressif/E7352C" />
+<img align="left" alt="STM32" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/stmicroelectronics/03234B" />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<!-- OS & Tools -->
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
@@ -31,46 +40,34 @@
 
 ---
 
-### 💻 Cool Projects
+### 💻 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Simple-MNIST-Digit-Classifier-Neural-Network&theme=dark" alt="MNIST Digit Classifier Neural Network" width="48%">
-  </a>
-  <a href="https://github.com/T-Kalv/StudyShorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=dark" alt="StudyShorts" width="48%">
-  </a>
-  <a href="https://github.com/UnityRiseUol/pl26-rideshare-experiment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnityRiseUol&repo=pl26-rideshare-experiment&theme=dark" alt="PL-26 VEGA Rideshare Experiment" width="48%">
-  </a>
-  <a href="https://github.com/UnityRiseUol/pl26-groundstation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnityRiseUol&repo=pl26-groundstation&theme=dark" alt="PL-26 Groundstation" width="48%">
-  </a>
-</p>
+| 🧠 AI Neural Scientist | 🚀 VEGA Rideshare Experiment |
+| :--- | :--- |
+| An interactive full-stack neural network autopsy and lesion tool built with PyTorch, Next.js, React & TypeScript as part of OpenAI Build Week 2026. | Edge-computed multispectral computer vision research project payload for the PL-26 Unity Rise Launch Vehicle, programmed with OpenCV and Python. |
+| [**View Repository ➔**](https://github.com/T-Kalv/AI-Neural-Scientist) | [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-rideshare-experiment) |
+| <br>**📡 PLOTS Ground Station** | <br>**📊 Postflight Analysis Tracker** |
+| Interactive, real-time full-stack ground station designed to receive, log and visualise live RF flight data from the PL-26 LIFTS avionics system. Hardware designed in KiCad; software programmed in C++ and Python/PySide6. | Telemetry analysis and data parsing suite for aerospace payloads, programmed in Python and PySide6. |
+| [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-groundstation) | [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-postflight-analysis) |
+| <br>**🌀 Spinning Objects** | <br>**📚 StudyShorts** |
+| A zero-dependency, cross-platform 3D rendering engine built entirely from scratch in C++ to compute and visualise rotating geometries. | Interactive full-stack study optimisation tool and flashcard application built with Java, Swing and MySQL. |
+| [**View Repository ➔**](https://github.com/T-Kalv/spinning-objects) | [**View Repository ➔**](https://github.com/T-Kalv/StudyShorts) |
+| <br>**📈 Black-Scholes Model** | <br>**🤖 MNIST Digit Classifier** |
+| Interactive quantitative finance model for algorithmic option pricing built with Streamlit and Python. | Framework-free feed-forward neural network built from scratch in Python. |
+| [**View Repository ➔**](https://github.com/T-Kalv/Black-Scholes-Model) | [**View Repository ➔**](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network) |
 
----
+### 📈 GitHub Stats
 
-### 📈 Stats
+<div align="center">
+  <a href="https://github.com/T-Kalv"><img src="https://github-readme-stats.vercel.app/api?username=T-Kalv&show_icons=true&theme=dark&text_bold=true" height="165" alt="T-Kalv's GitHub stats"/></a>
+  <a href="https://github.com/T-Kalv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Kalv&layout=compact&theme=dark" height="165" alt="Top languages"/></a>
+  <a href="https://github.com/T-Kalv"><img src="https://streak-stats.demolab.com?user=T-Kalv&mode=daily&theme=dark&hide_border=false&border_radius=5" height="165" alt="streak graph"/></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/T-Kalv">
-    <img src="https://github-readme-stats.vercel.app/api?username=T-Kalv&show_icons=true&theme=dark&text_bold=true" height="165" alt="T-Kalv's GitHub stats"/>
-  </a>
-  <a href="https://github.com/T-Kalv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Kalv&layout=compact&theme=dark" height="165" alt="Top languages"/>
-  </a>
-  <a href="https://github.com/T-Kalv">
-    <img src="https://streak-stats.demolab.com?user=T-Kalv&mode=daily&theme=dark&hide_border=false&border_radius=5" height="165" alt="streak graph"/>
-  </a>
-</p>
-
-[1]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DT-Kalv%26type%3Djson
-[Interactive Black-Scholes Option Pricing Model]: https://github.com/T-Kalv/Black-Scholes-Model
-[CS Website]: https://mastercsonline.w3spaces.com/
-[TALIA]: https://github.com/T-Kalv/Tasp-Talia-
-[Simple MNSIT Digit Classifier Neural Network]: https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main
-[Research Paper]: https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf
-[LIFTS]: https://github.com/mg643l/pulsar-avionics
+<!-- Link References -->
+[Interactive Black-Scholes Model]: https://github.com/T-Kalv/Black-Scholes-Model
+[AI Neural Scientist]: https://github.com/T-Kalv/AI-Neural-Scientist
 [Unity Rise Rocket Team]: https://github.com/UnityRiseUol
 [VEGA]: https://github.com/UnityRiseUol/pl26-rideshare-experiment
 [PLOTS Ground Station]: https://github.com/UnityRiseUol/pl26-groundstation
+[Website]: https://t-kalv.github.io/
